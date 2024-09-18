@@ -1,0 +1,9 @@
+vista\gui\VentanaConsultaGeneral.class
+modelo\vo\ModeloDatos.class
+Principal.class
+vista\gui\VentanaConsulta.class
+vista\gui\VentanaConsultaPersonas.class
+controlador\coordinador.class
+vista\gui\VentanaOperaciones.class
+modelo\vo\EstudianteVO.class
+modelo\operaciones\Procesos.class
